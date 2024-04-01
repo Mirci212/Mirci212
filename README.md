@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mirci212
 - 👀 I’m interested in programming in C#, Python, Html, Javascript
 - 🌱 I'm currently attending the Higher Technical College in Vöcklabruck, in the 4th grade.
-- 📫 How to reach me: Marcomaier1006@outlook.com 
-- 😄 Pronouns: He
+- 📫 How to reach me: Marcomaier1006@outlook.com
+  - Instagram: https://www.instagram.com/marco._.mar/
+  - LinkedIn: https://www.linkedin.com/in/marco-maier-68751a27b/
 - ⚡ Fun fact: I am riding on horses.
