@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirci212
 - 👀 I’m interested in programming in C#, Python, Html, Javascript
-- 🌱 I'm currently attending the Higher Technical College in Vöcklabruck, in the 4th grade.
+- 🌱 I'm currently attending the Higher Technical College in Vöcklabruck, in the 5th grade.
 - 📫 How to reach me
   - Email: Marcomaier1006@outlook.com
   - Instagram: https://www.instagram.com/marco._.mar/
