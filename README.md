@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m @Mirci212<br>🌱 I'm currently attending the Higher Technical College in Vöcklabruck, in the 5th grade.
+![Header](/readme_header.png)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marco._.mar) 
