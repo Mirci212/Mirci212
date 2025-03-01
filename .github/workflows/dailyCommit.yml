@@ -1,0 +1,28 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Läuft täglich um Mitternacht UTC
+  workflow_dispatch: # Ermöglicht manuelles Triggern
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+        with:
+          ref: output  # Sicherstellen, dass der output-Branch verwendet wird
+
+      - name: Änderungen vornehmen
+        run: |
+          echo "Automatische Aktualisierung am $(date)" >> daily_update.txt
+
+      - name: Änderungen committen und pushen
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .
+          git commit -m "Täglicher automatischer Commit"
+          git push origin output
