@@ -27,5 +27,5 @@ jobs:
           git config --global user.email 'mirci212@example.com'
           git add .
           git commit -m "Täglicher automatischer Commit"
-          git push https://Mirci212:${GITHUB_TOKEN_PAT}@github.com/Mirci212/dein-repo.git output
+          git push https://Mirci212:${GITHUB_TOKEN_PAT}@github.com/Mirci212/Mirci212.git output
 
