@@ -21,8 +21,8 @@ jobs:
 
       - name: Änderungen committen und pushen
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.name 'Mirci212'
+          git config --global user.email 'Marcomaier1006@outlook.com'
           git add .
           git commit -m "Täglicher automatischer Commit"
           git push origin output
