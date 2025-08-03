@@ -60,8 +60,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mirci212&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# 🎵 Spotify
-<a href="https://open.spotify.com/user/ducru9jl4tlfcrci11g70i02k">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ducru9jl4tlfcrci11g70i02k&count=5&unique=true" alt="Spotify recently played"  />
-</a>
-
